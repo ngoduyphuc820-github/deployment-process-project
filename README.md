@@ -20,7 +20,7 @@ Frontend: http://thanhlnt-udagram.s3-website-us-east-1.amazonaws.com/
 Backend: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
 
 ## Project Setup
-1. Clone the project - `https://github.com/lntthanh/udagram.git`
+1. Clone the project - `https://github.com/ngoduyphuc820-github/deployment-process-project`
 2. Build & Run Frontend
    1. Go into the project directory - `cd udagram/udagram-frontend`
    2. Install the dependencies - `npm install`
