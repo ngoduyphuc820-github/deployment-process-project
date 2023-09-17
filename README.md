@@ -15,7 +15,7 @@ The main feature of this project is:
 The project can run but is missing some information to connect to the database and storage service
 
 ## Project Link
-Frontend: http://phucnd12.s3.amazonaws.com/
+Frontend: http://phucnd12.s3.amazonaws.com/index.html
 
 Backend: http://udagram-api-dev2.us-east-1.elasticbeanstalk.com
 
