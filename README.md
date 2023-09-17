@@ -15,9 +15,9 @@ The main feature of this project is:
 The project can run but is missing some information to connect to the database and storage service
 
 ## Project Link
-Frontend: http://thanhlnt-udagram.s3-website-us-east-1.amazonaws.com/
+Frontend: http://phucnd12.s3.amazonaws.com/
 
-Backend: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
+Backend: http://udagram-api-dev2.us-east-1.elasticbeanstalk.com
 
 ## Project Setup
 1. Clone the project - `https://github.com/ngoduyphuc820-github/deployment-process-project`
