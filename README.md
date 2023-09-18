@@ -17,7 +17,7 @@ The project can run but is missing some information to connect to the database a
 ## Project Link
 Frontend: http://phucnd12.s3.amazonaws.com/index.html
 
-Backend: http://udagram-api2-dev22.us-east-1.elasticbeanstalk.com
+Backend: http://udagram-api-dev2.us-east-1.elasticbeanstalk.com
 
 ## Project Setup
 1. Clone the project - `https://github.com/ngoduyphuc820-github/deployment-process-project`
